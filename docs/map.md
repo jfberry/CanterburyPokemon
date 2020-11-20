@@ -44,7 +44,11 @@ This example shows current raids at all levels, but this can be restricted to le
 
 The location settings allow you to set "follow-me". Especially useful when using mobile device and searching for specific or high IV pokemon.
 
-![Hundo](img/rocketmap-followme.png)
+a
+![Hundo](img/rocketmap-followme.png =200px)
+
+b
+<img src="img/rocketmap-followme.png" alt="drawing" width="200"/>
 
 ### Nest display
 
