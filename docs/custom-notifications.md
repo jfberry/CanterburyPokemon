@@ -1,11 +1,13 @@
-# Custom Notifications
+All the notifications are run by a bot called **Professor Poracle**.  The Professor is extremely diligent, but a bit fussy in the way you need to set out your requirements.
 
 ## Wake up poracle
-Professor Poracle will talk to you by sending you direct messages in discord.  You can start the conversation by connecting to the Canterbury Pokemon Discord Server, going into the `#mapping-discussion` channel and calling for poracle with the command `!poracle`
+Professor Poracle will talk to you by sending you direct messages in discord.  You can call him to start a conversation by connecting to the Canterbury Pokemon Discord Server, going into the `#mapping-discussion` channel and calling for poracle with the command `!poracle`
 
-**screen shot here**
+**insert screen shot here**
 
 ## Simple commands
+
+When you are talking to the Professor there are a few basic commands you should remember
 
 Command | Description
 --- | ---
@@ -13,7 +15,9 @@ Command | Description
 **!tracked** | Display a summary of everthing you are currently tracking
 **!stop** | Stop sending me messages - if you have tracked too much this can be a good way to stop the Professor spamming you!
 **!start** | Start sending messages again
- 
+
+**insert tracked screen shot here**
+
 ## Notification area
 
 You will only receive notifications for things that happen within the areas you have opted in, _or_ within a certain distance from a specific location you set.
@@ -22,7 +26,6 @@ You will only receive notifications for things that happen within the areas you 
 When you first start to use poracle, it is sensible to use the pre-defined areas
 
 ## Setting your area
-
 
 You can always see a list of areas that poracle currently supports by using the command `!area list`. The current areas are:
 
@@ -36,7 +39,7 @@ bridge | Bridge village
 
 To add yourself to an area, issue a command like `!area add city`.  Removing yourself is just the reverse `!area remove city`.  You can see the areas you are interested in using the `!tracked` command
 
-![tracked example](https://imgur.com/a/tyJM6Yw.jpg)
+**insert screenshot here**
 
 ## Setting your location
 
@@ -75,4 +78,4 @@ Example might be `!track gible` - you can “!untrack everything” - or you mig
 
 ![Pokemon](img/discord-pokemon.png)
 
-Advanced use
+

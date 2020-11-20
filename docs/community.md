@@ -7,14 +7,14 @@ Resource | Description
 The **map** | The canterbury pokemon map - all features available to all free of charge [here](https://canterburypokemon.com)
 Facebook Group | This facebook group is the most active locally - join [here](https://www.facebook.com/groups/957597921018096)
 Discord | Join here: [Invite Link](https://discord.com/invite/hgtsx5r)
-Raid messenger group | This is an invite-only messenger group. To get invited ask in one of the public access
-Remote Raid Messenger Group | This is a messenger group
+Raid messenger group | This is an invite-only messenger group. You can join through the facebook page or ask on discord
+Remote Raid Messenger Group | This is an invite-only messenger group dedicated to co-ordinating remote raids.  You can join through the facebook page or ask on discord
 UKC Raid Group | A raid group for UKC staff and students
-Scanner notification channels | There are some general access notifications provided both through Facebook messenger or Discord
+Scanner notification channels | There are some general access notifications provided both through Facebook messenger or Discord, these are described on these pages
 
 # Neighbouring communities
 
-We have a number of neighbouring communities
+We are aware of a number of neighbouring communities and will be adding links to their pages with their permission
 
 Location | Description
 --- | ---
