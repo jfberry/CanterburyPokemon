@@ -1,2 +1,9 @@
+site_name: Canterbury Pokemon Information
 nav:
     - Home: 'index.md'
+    - 'Community resources': community.md
+    - 'Pokemon Map': map.md
+    - 'Notifications': notifications.md
+    - 'Custom Notifications': custom-notifications.md
+    - 'New Pokestops': waypoints.md
+    - 'Get in touch': get-in-touch.md
