@@ -1,4 +1,3 @@
-
 The Canterbury Pokemon map is run by a small army of elves who walk around Canterbury checking everything out so you don't have to.  They update the map and also provide the source of data used by the notification systems.
 
 # Controls and options
@@ -36,19 +35,13 @@ This example shows current raids at all levels, but this can be restricted to le
 
 ![Hundo](img/rocketmap-raids.png)
 
-
-
 ## Other interesting features
 
 ### "Follow-me"
 
 The location settings allow you to set "follow-me". Especially useful when using mobile device and searching for specific or high IV pokemon.
 
-a
-![Hundo](img/rocketmap-followme.png =200px)
-
-b
-<img src="img/rocketmap-followme.png" alt="drawing" width="200"/>
+<img src="../img/rocketmap-followme.png" alt="drawing" width="200"/>
 
 ### Nest display
 
