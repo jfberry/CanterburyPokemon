@@ -32,10 +32,16 @@ You can always see a list of areas that poracle currently supports by using the 
 Area name | Description
 --- | ---
 canterbury | The whole of the canterbury area covered by the scanner
-city | The city centre area
-ukc | The University of Kent campus
-wincheap | The wincheap area
+city | The city centre area (red)
+ukc | The University of Kent campus (north blue)
+wincheap | The wincheap area (west blue)
+stdunstans | The St Dunstans area (orange)
 bridge | Bridge village
+
+![Wide](img/fence-wide.png)
+
+![Wide](img/fence-city.png)
+
 
 To add yourself to an area, issue a command like `!area add city`.  Removing yourself is just the reverse `!area remove city`.  You can see the areas you are interested in using the `!tracked` command
 
