@@ -7,9 +7,11 @@ When you first see the map it can look a bit confusing as all the settings start
 
 ## Pokemon
 
-Filter pokemon by type, or by IV. In this screen shot I'm showing pokemon filtered by IV > 90%.  Other interesting things to try are to size the pokemon icons by rarity
+Filter pokemon by type, or by IV. In this screen shot I'm showing pokemon filtered by IV > 90%.  Other interesting things to try are to size the pokemon icons by rarity.
 
 ![Hundo](img/rocketmap-pokemon.png)
+
+Note: if you like Hundos and Nundos there is a slider to add 0% IV pokemon onto the map in addition to your filter.
 
 ## Pokestop and quests
 
