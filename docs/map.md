@@ -5,6 +5,12 @@ The Canterbury Pokemon map is run by a small army of elves who walk around Cante
 The map is accessed by going to [canterburypokemon.com](https://canterburypokemon.com)
 When you first see the map it can look a bit confusing as all the settings start at on - the best thing to do is to go into each category and turn them off and then build back up to the information that you are interested in.
 
+If you click on an element you'll get a pop-up; here you can see more detail.  Clicking on the co-ordinates will take you to google maps which can give you directions.
+ 
+![Pokemon](img/rocketmap-example-pokemon.png)
+
+Note that if the weather changes (which can happen on the hour), or there is a sudden change of pokemon (at the start and end of spotlight hour or community day) the map doesn't instantly change... only as the elves get to each location does it update.
+
 ## Pokemon
 
 Filter pokemon by type, or by IV. In this screen shot I'm showing pokemon filtered by IV > 90%.  Other interesting things to try are to size the pokemon icons by rarity.
