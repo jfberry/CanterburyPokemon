@@ -73,3 +73,6 @@ To be completed
 # Adding new areas
 
 If you are in the Canterbury area and would like to see your area covered please get in touch - the map is very much demand led
+
+# FAQ
+

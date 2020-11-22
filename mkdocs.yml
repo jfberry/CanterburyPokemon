@@ -8,5 +8,7 @@ nav:
        - 'Custom Notifications': custom-notifications.md
     - 'New Pokestops': waypoints.md
     - 'Get in touch': get-in-touch.md
+    - 'FAQ': faq.md
+
 theme: readthedocs
 
