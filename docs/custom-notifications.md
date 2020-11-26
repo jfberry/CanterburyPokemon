@@ -25,7 +25,7 @@ You will only receive notifications for things that happen within the areas you 
 
 When you first start to use poracle, it is sensible to use the pre-defined areas
 
-# Setting your area
+# Setting an area for alerts
 
 You can always see a list of areas that poracle currently supports by using the command `!area list`. The current areas are:
 
@@ -96,10 +96,39 @@ Example might be `!track gible` - you can “!untrack everything” - or you mig
 
 To untrack pokemon use the !untrack command eg `!untrack everything`
 
+You can qualify the pokemon you are tracking with some filters
+
+| Filter    | Example                         | Description  |
+| --------- |:-------------------------------:| -----------:|
+|           |`!track pikachu`                 | No filters, tracks pikachu within an area you are tracking in |
+|d          |`!track pikachu d750`            | Tracks pikachu within 750 meters of your !location |
+|iv         |`!track pikachu iv90`            | Tracks pikachu inside a tracked area with a minimum IV of 90%  |
+|maxiv      |`!track pikachu maxiv0`          | Tracks pikachu with 0% IV   |
+|cp         |`!track shuckle cp300`           | Tracks shuckle with a minimum CP of 300|
+|form       |`!track unown forma formquestion`| Tracks unown with questionmark form or form A. Can only be used with one monster at a time. Monster needs to have forms|
+|maxcp      |`!track shuckle maxcp400`        | Tracks shuckle with a maximum CP of 400 |
+|level      |`!track shuckle level20`         | Tracks shuckle with a minimum level 20|
+|maxlevel   |`!track shuckle maxlevel1`       | Tracks shuckle with maximum level 1|
+|atk        |`!track eevee atk15`             | Tracks eevee with a (minimum) 15 point attack value|
+|def        |`!track eevee def14`             | Tracks eevee with a (minimum) 14 point defense value|
+|sta        |`!track eevee sta10`             | Tracks eevee with a (minimum) 10 point stamina value|
+|maxatk     |`!track eevee maxatk0 iv0`       | Tracks eevee with a (maximum) 0 point attack value. iv filter is necessary to avoid unencoungered mon (iv on those is -1)|
+|maxdef     |`!track eevee def10 maxdef14`    | Tracks eevee with a 10 - 14 point defense value|
+|maxsta     |`!track eevee maxsta10 iv50`     | Tracks eevee with a (maximum) 10 point stamina value and iv over 50%|
+|weight     |`!track magikarp weight13130`    | Tracks "big" magikarp (13130 grams and higher|
+|maxweight  |`!track rattata maxweight2410`   | Tracks "tiny" rattata (2410 grams and lower)|
+|male       |`!track rattata male`            | Tracks male rattata |
+|female     |`!track pikachu female`          | Tracks female pikachu |
+|genderless |`!track unown genderless`        | Tracks genderless unowns |
+|everything |`!track everything iv90 level20` | Tracks eveything with a minimum IV of 90% level 20 and higher. |
+|gen |`!track gen6 iv60 level15` | Tracks gen 6 pokemon with a minimum IV of 60% level 15 and higher. <br/> ⚠️This will overwrite all other monsters in the command⚠️ |
+
+
 # Help! I can't get it working!
 (or it's spamming me!)
 
-Look closely at your `!tracked` -- if you are using `d` after any of the things you are tracking then that is the distance from the location.  Anything without a `d` will be sent to you if it is in one of the areas.
+Look closely at your `!tracked` -- if you are using `d` after any of the things you are tracking then that is the distance from the location.  Anything without a `d` will be sent to you only if it is in one of the areas listed
 
 Issue `!stop` if you are being spammed. 
+
 Just ask in the `#mapping-discussion` channel - someone will help you out.
