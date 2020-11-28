@@ -115,7 +115,7 @@ You can qualify the pokemon you are tracking with some filters
 |maxatk     |`!track eevee maxatk0 iv0`       | Tracks eevee with a (maximum) 0 point attack value. iv filter is necessary to avoid unencoungered mon (iv on those is -1)|
 |maxdef     |`!track eevee def10 maxdef14`    | Tracks eevee with a 10 - 14 point defense value|
 |maxsta     |`!track eevee maxsta10 iv50`     | Tracks eevee with a (maximum) 10 point stamina value and iv over 50%|
-|weight     |`!track magikarp weight13130`    | Tracks "big" magikarp (13130 grams and higher|
+|weight     |`!track magikarp weight13130`    | Tracks "big" magikarp (13130 grams and higher)|
 |maxweight  |`!track rattata maxweight2410`   | Tracks "tiny" rattata (2410 grams and lower)|
 |male       |`!track rattata male`            | Tracks male rattata |
 |female     |`!track pikachu female`          | Tracks female pikachu |
