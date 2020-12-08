@@ -122,6 +122,10 @@ New!
 |`!track snorlax ultra100`| for top 100 ultra league snorlax|
 |`!track everything ultra1 ultracp2400`| for top 1 great league pokemon maxing out at or above 2400CP|
 
+An example notification containing PVP information - you can see what this Eevee can become in Great and Ultra leagues in all its various forms
+
+![pvpalert](img/discord-pvp-pokemon.png)
+
 # Help! I can't get it working!
 (or it's spamming me!)
 
