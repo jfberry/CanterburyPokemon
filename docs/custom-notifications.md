@@ -4,6 +4,9 @@ All the notifications are run by a bot called **Professor Poracle**.  The Profes
 
 Professor Poracle will talk to you by sending you direct messages in discord.  You can call him to start a conversation by connecting to the Canterbury Pokemon Discord Server, going into the `#mapping-discussion` channel and calling for poracle with the command `!poracle`
 
+# Web interface
+
+Once you have called the professor in Discord you can make changes to your notifications either by using commands - or the new web interface - [here](https://poracle.canterburypokemon.com)
 
 # Simple commands
 
