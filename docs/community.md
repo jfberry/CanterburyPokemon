@@ -19,9 +19,11 @@ We are aware of a number of neighbouring communities and will be adding links to
 Location | Description
 --- | ---
 Faversham | A facebook messenger group
-Herne Bay & Whitstable | Discord group and map
+Herne Bay & Whitstable | Discord group and map. Join [Discord](https://discord.gg/XXQqU3h) and look at channel #map-access
+Dover & Deal | Discord group and map. Join [Discord](https://discord.gg/bzzYg5hgEq) and send `!map` in the #bot-interactions channel
 Thanet | Discord group and map
-Dover Deal | Discord group and map
 Ashford | Map
+Tonbridge Wells | Map
+Maidstone | Map
 
 *If you would like to be listed here, please join the Canterbury discord group and make yourself known

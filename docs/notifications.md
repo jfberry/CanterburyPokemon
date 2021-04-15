@@ -1,3 +1,18 @@
+# Telegram
+
+A telegram fan?
+Join one of our two groups:
+
+## Hundos
+
+![Hundo](img/telegram-hundos.png)
+
+[Invite Link](https://t.me/joinchat/GlbyfVlmwpDDrRq_)
+
+## High IV
+
+
+[Invite Link](https://t.me/joinchat/GKiE7bN1hFfBWxL7)
 
 
 # Facebook
