@@ -7,6 +7,8 @@ Resource | Description
 The **map** | The canterbury pokemon map - all features available to all free of charge [here](https://canterburypokemon.com)
 Facebook Group | This facebook group is the most active locally - join [here](https://www.facebook.com/groups/957597921018096)
 Discord | Join here: [Invite Link](https://discord.com/invite/hgtsx5r)
+Hundo Telegram Group | This group has posts of hundos (4*) pokemon from all round the canterbury area. Join here: [Invite Link](https://t.me/joinchat/UAoiRyxegqDDrRq_)
+Community Day Telegram Group | This group has posts of IV95+ pokemon around the city centre on Community day. Join here: [Invite Link](https://t.me/joinchat/VmUujyIawLLBWxL7)
 Raid messenger group | This is an invite-only messenger group. You can join through the facebook page or ask on discord
 Remote Raid Messenger Group | This is an invite-only messenger group dedicated to co-ordinating remote raids.  You can join through the facebook page or ask on discord
 UKC Raid Group | A raid group for UKC staff and students
